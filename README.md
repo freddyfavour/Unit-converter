@@ -1,5 +1,7 @@
 ## Project Overview
 
+![Preview image](https://github.com/freddyfavour/Unit-converter/blob/main/preview.png?raw=true)
+
 **Unit Converter** is a web application that allows users to convert between various units of measurement across different categories. It provides a user-friendly interface for quick and accurate conversions.
 
 ## Features
